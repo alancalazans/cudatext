@@ -1,0 +1,5 @@
+# Declare os arquivos que sempre terão delimitadores de linha CRLF ao fazer checkout.
+user.json text eol=lf
+site.txt text eol=lf
+orientações-editor-site.txt text eol=lf
+install.sh eol=lf

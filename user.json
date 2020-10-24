@@ -1,0 +1,15 @@
+{
+  "ui_theme" : "sub",
+  "ui_theme_syntax" : "sub",
+  "font_name" : "Consolas",
+  "font_name__linux" : "Consolas",
+  "font_size" : 11,
+  "font_size__linux" : 11,
+  "tab_size" : 2,
+  "pylib__linux" : "/usr/lib/x86_64-linux-gnu/libpython3.7m.so.1",
+  "autocomplete_html" : true,
+  "autocomplete_html_lexers" : ".*HTML.*|\bPHP\b",
+  "autocomplete_close_chars" : "<>()[]{}=",
+  "auto_close_brackets" : "([{",
+  "ui_toolbar_show" : true
+}
