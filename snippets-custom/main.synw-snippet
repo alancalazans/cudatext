@@ -1,0 +1,12 @@
+name=main()
+id=main
+lex=C,C++,Objective-C
+text=
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdbool.h>
+
+int main(int argc, char const *argv[]) {
+	${0:/* code */}
+	return 0;
+}
